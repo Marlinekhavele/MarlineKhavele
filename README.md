@@ -1,4 +1,4 @@
-### Hi, I'm Marline 👋
+### Hi, I'm Marline 👋 :woman_technologist:
 I'm a Backend developer and a writer.
 - 🔭 I’m currently working on Django 
 - 🌱 I’m currently learning Go
