@@ -1,8 +1,7 @@
-### Hi, I'm Marline 👋 :woman_technologist:
-I'm a Backend developer and a writer.
-- 🔭 I’m currently working on Django 
+### 👋Hi there! I'm Marline.
+- 🔭 I’m currently working as a **Software Engineer**
 - 🌱 Learning Go
 - 💬 Ask me about anything Django! Always happy to engage on that.
-- 📫 How to reach me: khavelemarline@gmail.com | Twitter @khavelemarline
+- 📫 How to reach me: [Twitter](https://twitter.com/khavelemarline) | [Linkedln](https://www.linkedin.com/in/marlinekhavele/)
 - 😄 Pronouns: she/her
 
